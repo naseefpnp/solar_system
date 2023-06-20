@@ -8,7 +8,6 @@ class Planets{
 }
 
 void main(){
-
   print("search for a planet in solar system :");
   String? search = stdin.readLineSync();
 
